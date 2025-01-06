@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Eliseo Barreiro</h1>
 <h3 align="center">A passionate full-stack developer from Uruguay</h3>
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **Vue.js and Unreal engine 5.5**
 
 - 💬 Ask me about **react, javascript, css classes**
 
 - 📫 How to reach me **eliseobarreiro@gmail.com**
+
+- 📄 Know about my experiences [https://flowcv.com/resume/b6tq8a59km](https://flowcv.com/resume/b6tq8a59km)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
